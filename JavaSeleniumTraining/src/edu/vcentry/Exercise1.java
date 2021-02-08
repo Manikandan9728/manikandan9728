@@ -10,9 +10,9 @@ public class Exercise1 {
 		result = 'F';
 
 		if (result == 'P') {
-			System.out.printf("Pass");
+			System.out.print("Pass");
 		} else {
-			System.out.printf("Fail");
+			System.out.print("Fail");
 		}
 
 	}
